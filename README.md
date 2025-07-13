@@ -4,7 +4,7 @@
 
 | S.No | Title         | Side Topics                                                     | Resources                                                                             |
 | ---- | ------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 1    | Python Basics | basics, data structures, file handling, exception handling, OOP | [W3Schools, Programiz, Python Docs](https://youtu.be/eWRfhZUzrAc?si=jEiiWSRYZy_sXOaQ) |
+| 1    | Python Basics | basics, data structures, file handling, exception handling, OOP | [Youtube](https://youtu.be/eWRfhZUzrAc?si=jEiiWSRYZy_sXOaQ) |
 
 ---
 
@@ -12,7 +12,7 @@
 
 | S.No | Title     | Side Topics                   | Resources                                                                                |
 | ---- | --------- | ----------------------------- | ---------------------------------------------------------------------------------------- |
-| 2    | Streamlit | Streamlit basics, UI building | [Streamlit Docs, YouTube Crash Course](https://youtu.be/yKTEC1Y5bEQ?si=Y2kG2IB1KhUBPa9T) |
+| 2    | Streamlit | Streamlit basics, UI building | [Youtube](https://youtu.be/yKTEC1Y5bEQ?si=Y2kG2IB1KhUBPa9T) |
 
 ---
 
@@ -20,7 +20,7 @@
 
 | S.No | Title            | Side Topics                                                                        | Resources                                                                                            |
 | ---- | ---------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 3    | ML Fundamentals  | classification, regression, model evaluation, data processing, feature engineering | [https://youtu.be/ZftI2fEz0Fw?si=CbD-oIg5lDEqFNgl](https://youtu.be/ZftI2fEz0Fw?si=CbD-oIg5lDEqFNgl) |
+| 3    | ML Fundamentals  | classification, regression, model evaluation, data processing, feature engineering | [Youtube](https://youtu.be/ZftI2fEz0Fw?si=CbD-oIg5lDEqFNgl) |
 | 4    | 🆕 ML Evaluation | Accuracy, Precision, Recall, Confusion Matrix, AUC                                 |                                                                                                      |
 | 5    | 🆕 Data Labeling | Manual annotation, Label Studio, Roboflow                                          |                                                                                                      |
 
@@ -39,7 +39,7 @@
 
 | S.No | Title      | Side Topics                                    | Resources                                                                                                |
 | ---- | ---------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| 6    | ML for NLP | text preprocessing, OHE, BoW, TF-IDF, Word2Vec | [NLP Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn&si=6OaqGFffW_uIvgBe) |
+| 6    | ML for NLP | text preprocessing, OHE, BoW, TF-IDF, Word2Vec | [Youtube](https://youtube.com/playlist?list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn&si=6OaqGFffW_uIvgBe) |
 
 ---
 
@@ -56,7 +56,7 @@
 
 | S.No | Title     | Side Topics                                         | Resources                                                                                                                                                         |
 | ---- | --------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 7    | DL Basics | NN, loss function, optimizers, activation functions | [Video 1](https://youtu.be/aircAruvnKk?si=jVgC3K_BeVGMfOXY), [Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=hTP1hepod791tTGT) |
+| 7    | DL Basics | NN, loss function, optimizers, activation functions | [Youtube](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=hTP1hepod791tTGT) |
 
 ---
 
@@ -64,7 +64,7 @@
 
 | S.No | Title       | Side Topics                     | Resources                                                                                                                                                              |
 | ---- | ----------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 8    | DL Advanced | ANN, CNN, LSTM, RNN, optimizers | [CS231n Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=hTP1hepod791tTGT), [Video](https://youtu.be/VyWAvY2CF9c?si=viVrWFc9xz7uuFie) |
+| 8    | DL Advanced | ANN, CNN, LSTM, RNN, optimizers | [Youtube](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=hTP1hepod791tTGT), [Youtube](https://youtu.be/VyWAvY2CF9c?si=viVrWFc9xz7uuFie) |
 
 ---
 
@@ -81,8 +81,8 @@
 
 | S.No | Title           | Side Topics                                                                                         | Resources                                                                                            |
 | ---- | --------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 9    | Transformers    | Self-attention, Multi-head, Positional Encoding, Encoder-Decoder Arch, Layer Norm, Masked MHA, etc. | [Jay Alammar, Illustrated Transformer](https://www.youtube.com/live/SMZQrJ_L1vo?si=Ju3rCU0_ia19eSe0) |
-| 10   | 🆕 Tokenization | BPE, GPT-2 tokenizer, HF tokenizer                                                                  | [Video](https://youtu.be/ZhAz268Hdpw?si=wHzQodkQew2BBRb9), [Paper](https://arxiv.org/pdf/1706.03762) |
+| 9    | Transformers    | Self-attention, Multi-head, Positional Encoding, Encoder-Decoder Arch, Layer Norm, Masked MHA, etc. | [Youtube](https://www.youtube.com/live/SMZQrJ_L1vo?si=Ju3rCU0_ia19eSe0) |
+| 10   | 🆕 Tokenization | BPE, GPT-2 tokenizer, HF tokenizer                                                                  | [Youtube](https://youtu.be/ZhAz268Hdpw?si=wHzQodkQew2BBRb9), [Paper](https://arxiv.org/pdf/1706.03762) |
 
 ---
 
@@ -90,7 +90,7 @@
 
 | S.No | Title              | Side Topics                                                     | Resources                                                                                                                                     |
 | ---- | ------------------ | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11   | Intro to Gen AI    | AI vs ML vs DL vs GenAI, How GPT/LLM are trained, LLM evolution | [Video 1](https://youtu.be/X7Zd4VyUgL0?si=-PiUk-nVkBZ1emI4), [OpenAI Blog, DeepLearning.ai](https://youtu.be/d4yCWBGFCEs?si=JP9PK0yR9ZttFJBH) |
+| 11   | Intro to Gen AI    | AI vs ML vs DL vs GenAI, How GPT/LLM are trained, LLM evolution | [Youtube](https://youtu.be/X7Zd4VyUgL0?si=-PiUk-nVkBZ1emI4), [Youtube](https://youtu.be/d4yCWBGFCEs?si=JP9PK0yR9ZttFJBH) |
 | 12   | 🆕 LLM Evaluation  | BLEU, ROUGE, Perplexity, Human Evaluation                       |                                                                                                                                               |
 | 13   | 🆕 Ethics & Safety | Hallucination, bias, responsible deployment                     |                                                                                                                                               |
 
@@ -101,7 +101,7 @@
 | S.No | Title        | Side Topics                                           | Resources                                                                                                                                 |
 | ---- | ------------ | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | 14   | LangChain    | Components, Ollama, Huggingface, Groq                 | LangChain Docs                                                                                                                            |
-| 15   | 🆕 Prompting | Zero-shot, few-shot, chain-of-thought, prompt hacking | [Prompt Guide](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&si=R2u58Ph_eQ9IWonn), OpenAI Cookbook, LangChain Docs |
+| 15   | 🆕 Prompting | Zero-shot, few-shot, chain-of-thought, prompt hacking | [Youtube](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&si=R2u58Ph_eQ9IWonn), OpenAI Cookbook, LangChain Docs |
 
 ---
 
@@ -118,7 +118,7 @@
 
 | S.No | Title | Side Topics                       | Resources                                                                                    |
 | ---- | ----- | --------------------------------- | -------------------------------------------------------------------------------------------- |
-| 16   | RAG   | Retrieval pipeline, vector search | [Video](https://youtu.be/X0btK9X0Xnk?si=WbI9pxwpGoMGvuGN), LangChain RAG Docs, Pinecone Blog |
+| 16   | RAG   | Retrieval pipeline, vector search | [Youtube](https://youtu.be/X0btK9X0Xnk?si=WbI9pxwpGoMGvuGN), LangChain RAG Docs, Pinecone Blog |
 
 ---
 
