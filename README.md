@@ -150,8 +150,6 @@
 
 ### 📄 Some Good Research Papers
 
-- something related to NLP (if there)  
-- something related to DL (if there)  
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)  
 - [LangChain Docs](https://python.langchain.com/docs/introduction/)
 
