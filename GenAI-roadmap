@@ -1,0 +1,141 @@
+
+## 📘 Title Table
+
+### **1. Python Basics**
+
+| S.No | Title         | Side Topics                                                     | Resources                         |
+| ---- | ------------- | --------------------------------------------------------------- | --------------------------------- |
+| 1    | Python Basics | basics, data structures, file handling, exception handling, OOP | W3Schools, Programiz, Python Docs |
+
+---
+
+### **2. Streamlit**
+
+| S.No | Title     | Side Topics                   | Resources                            |
+| ---- | --------- | ----------------------------- | ------------------------------------ |
+| 2    | Streamlit | Streamlit basics, UI building | Streamlit Docs, YouTube Crash Course |
+
+---
+
+### **3. Machine Learning**
+
+| S.No | Title            | Side Topics                                                                        | Resources                         |
+| ---- | ---------------- | ---------------------------------------------------------------------------------- | --------------------------------- |
+| 3    | ML Fundamentals  | classification, regression, model evaluation, data processing, feature engineering | Andrew Ng ML Course, sklearn Docs |
+| 4    | 🆕 ML Evaluation | Accuracy, Precision, Recall, Confusion Matrix, AUC                                 | StatQuest, sklearn.metrics        |
+| 5    | 🆕 Data Labeling | Manual annotation, Label Studio, Roboflow                                          | Label Studio, Roboflow            |
+
+---
+
+### 🛠 **P1: Projects**
+
+| S.No | Project Name               | Explanation                                          | Datasets                   | Resources                         |
+| ---- | -------------------------- | ---------------------------------------------------- | -------------------------- | --------------------------------- |
+| 1    | ML Classification App      | Build a classification app using sklearn + Streamlit | Iris, Titanic, MNIST       | Kaggle, sklearn docs, Streamlit   |
+| 2    | Regression Price Predictor | Housing price prediction with feature engineering    | Boston Housing, California | scikit-learn, seaborn, matplotlib |
+
+---
+
+### **4. ML for NLP**
+
+| S.No | Title      | Side Topics                                    | Resources                                |
+| ---- | ---------- | ---------------------------------------------- | ---------------------------------------- |
+| 6    | ML for NLP | text preprocessing, OHE, BoW, TF-IDF, Word2Vec | NLTK, spaCy, Analytics Vidhya NLP Guides |
+
+---
+
+### 🛠 **P2: Projects**
+
+| S.No | Project Name      | Explanation                                           | Datasets               | Resources           |
+| ---- | ----------------- | ----------------------------------------------------- | ---------------------- | ------------------- |
+| 1    | Text Classifier   | Spam detection or sentiment analysis using BoW/TF-IDF | SMS Spam, IMDb Reviews | Kaggle, sklearn NLP |
+| 2    | Word2Vec Explorer | Visualize similarity between words using Word2Vec     | Google News Word2Vec   | Gensim, seaborn     |
+
+---
+
+### **5. DL Basics**
+
+| S.No | Title     | Side Topics                                         | Resources                    |
+| ---- | --------- | --------------------------------------------------- | ---------------------------- |
+| 7    | DL Basics | NN, loss function, optimizers, activation functions | DeepLearning.ai, 3Blue1Brown |
+
+---
+
+### **6. DL Deep Dive**
+
+| S.No | Title       | Side Topics                     | Resources                     |
+| ---- | ----------- | ------------------------------- | ----------------------------- |
+| 8    | DL Advanced | ANN, CNN, LSTM, RNN, optimizers | Stanford CS231n, Medium Blogs |
+
+---
+
+### 🛠 **P3: Projects**
+
+| S.No | Project Name        | Explanation                        | Datasets              | Resources                 |
+| ---- | ------------------- | ---------------------------------- | --------------------- | ------------------------- |
+| 1    | Image Classifier    | Build CNN to classify cats vs dogs | Dogs vs Cats (Kaggle) | TensorFlow/Keras, PyTorch |
+| 2    | Sentiment with LSTM | Sentiment prediction using LSTM    | IMDb, Twitter         | Keras, torchtext          |
+
+---
+
+### **7. Transformers**
+
+| S.No | Title           | Side Topics                                                                                         | Resources                                 |
+| ---- | --------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 9    | Transformers    | Self-attention, Multi-head, Positional Encoding, Encoder-Decoder Arch, Layer Norm, Masked MHA, etc. | Jay Alammar, Illustrated Transformer      |
+| 10   | 🆕 Tokenization | BPE, GPT-2 tokenizer, HF tokenizer                                                                  | Huggingface Tokenizers, OpenAI Playground |
+
+---
+
+### **8. Introduction to Gen AI**
+
+| S.No | Title              | Side Topics                                                     | Resources                                  |
+| ---- | ------------------ | --------------------------------------------------------------- | ------------------------------------------ |
+| 11   | Intro to Gen AI    | AI vs ML vs DL vs GenAI, How GPT/LLM are trained, LLM evolution | OpenAI Blog, DeepLearning.ai               |
+| 12   | 🆕 LLM Evaluation  | BLEU, ROUGE, Perplexity, Human Evaluation                       | Huggingface Eval Libraries, PapersWithCode |
+| 13   | 🆕 Ethics & Safety | Hallucination, bias, responsible deployment                     | OpenAI Safety docs, YouTube                |
+
+---
+
+### **9. Introduction to LangChain**
+
+| S.No | Title        | Side Topics                                           | Resources                                    |
+| ---- | ------------ | ----------------------------------------------------- | -------------------------------------------- |
+| 14   | LangChain    | Components, Ollama, Huggingface, Groq                 | LangChain Docs, Ollama.dev, Huggingface Docs |
+| 15   | 🆕 Prompting | Zero-shot, few-shot, chain-of-thought, prompt hacking | OpenAI Cookbook, Prompt Engineering Guide    |
+
+---
+
+### 🛠 **P4: Projects**
+
+| S.No | Project Name           | Explanation                                     | Datasets | Resources                                  |
+| ---- | ---------------------- | ----------------------------------------------- | -------- | ------------------------------------------ |
+| 1    | Chatbot with LangChain | Build chatbot using LangChain + LLM + Streamlit | -        | LangChain Docs, Ollama                     |
+| 2    | Document Summarizer    | Summarize PDF/Text with LLM                     | -        | LangChain, PyPDF, Huggingface Transformers |
+
+---
+
+### **10. RAG (Retrieval Augmented Generation)**
+
+| S.No | Title | Side Topics                       | Resources                         |
+| ---- | ----- | --------------------------------- | --------------------------------- |
+| 16   | RAG   | Retrieval pipeline, vector search | LangChain RAG Docs, Pinecone Blog |
+
+---
+
+### 🛠 **P5: Projects**
+
+| S.No | Project Name            | Explanation                                               | Datasets    | Resources                     |
+| ---- | ----------------------- | --------------------------------------------------------- | ----------- | ----------------------------- |
+| 1    | PDF Summarizer with RAG | Upload PDF → extract text → chunk → embed → query via LLM | Custom PDFs | LangChain, FAISS, OpenAI/Groq |
+
+---
+
+### **11. Vector Databases**
+
+| S.No | Title               | Side Topics                                  | Resources                                   |
+| ---- | ------------------- | -------------------------------------------- | ------------------------------------------- |
+| 17   | Vector Databases    | FAISS, ChromaDB, Pinecone, similarity search | Pinecone Docs, Weaviate, FAISS GitHub       |
+| 18   | 🆕 Fine-tuning LLMs | PEFT, LoRA, prompt-tuning intro              | Huggingface PEFT, YouTube: “LoRA Explained” |
+
+
