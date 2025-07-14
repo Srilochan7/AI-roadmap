@@ -1,4 +1,4 @@
-# Gen AI CheatSheet
+# Gen AI CheatSheet-
 
 ### **1. Python Basics**
 
