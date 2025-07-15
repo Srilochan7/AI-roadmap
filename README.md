@@ -1,4 +1,5 @@
 # Gen AI CheatSheet-
+(I'm actively exploring more resources and refining this roadmap to make it more detailed and genuinely helpful — so drop a ⭐ if you find it valuable!)
 
 ### **1. Python Basics**
 
