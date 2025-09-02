@@ -6,41 +6,40 @@
 
 ## **0. Math Foundations**
 
-| S.No | Title          | Side Topics                                   | Resources                                  |
-| ---- | -------------- | --------------------------------------------- | ------------------------------------------ |
-| 0    | Math for ML/DL | Linear Algebra, Probability, Statistics, Calc |     [YouTube]( https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=2EJbpAA0269z28DA)    [YouTube](https://youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&si=-sKUfIUFB03mk461)               |
+| S.No | Title          | Side Topics                                   | Resources                                                                 |
+| ---- | -------------- | --------------------------------------------- | ------------------------------------------------------------------------- |
+| 0    | Math for ML/DL | Linear Algebra, Probability, Statistics, Calc | [3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) · [CampusX](https://youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST) · [Stanford CS229](https://see.stanford.edu/Course/CS229) |
 
 ---
 
 ## **1. Python Basics**
 
-| S.No | Title         | Side Topics                                                     | Resources                                  |
-| ---- | ------------- | --------------------------------------------------------------- | ------------------------------------------ |
-| 1    | Python Basics | basics, data structures, file handling, exception handling, OOP | [YouTube](https://youtu.be/eWRfhZUzrAc)    |
+| S.No | Title         | Side Topics                                                     | Resources                                               |
+| ---- | ------------- | --------------------------------------------------------------- | ------------------------------------------------------- |
+| 1    | Python Basics | basics, data structures, file handling, exception handling, OOP | [FreeCodeCamp](https://youtu.be/eWRfhZUzrAc)            |
 
 ---
 
 ## **2. Streamlit**
 
-| S.No | Title     | Side Topics                   | Resources                                   |
-| ---- | --------- | ----------------------------- | ------------------------------------------- |
-| 2    | Streamlit | Streamlit basics, UI building | [YouTube](https://youtu.be/yKTEC1Y5bEQ)     |
+| S.No | Title     | Side Topics                   | Resources                                                   |
+| ---- | --------- | ----------------------------- | ----------------------------------------------------------- |
+| 2    | Streamlit | Streamlit basics, UI building | [Data Professor](https://youtu.be/yKTEC1Y5bEQ)              |
 
 ---
 
-## **3. Machine Learning**
+## **3. Machine Learning — Core Basics**
 
 | S.No | Title              | Side Topics                                                                 | Resources                                                                 |
 | ---- | ------------------ | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 3    | ML Fundamentals    | classification, regression, feature engineering, pipelines                  | [YouTube Playlist](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) |
-| 4    | 🆕 ML Evaluation   | Accuracy, Precision, Recall, Confusion Matrix, AUC                          |                                                                           |
-| 5    | 🆕 Data Labeling   | Manual annotation, Label Studio, Roboflow                                   |                                                                           |
-| 6    | 🆕 Feature Scaling | Normalization, Standardization, MinMax, Robust                             | sklearn docs                                                              |
-| 7    | 🆕 Hyperparameter  | GridSearchCV, RandomSearch, Optuna, Bayes Opt                              | scikit-learn, Optuna docs                                                  |
+| 3    | ML Fundamentals    | Classification, Regression, Pipelines, Feature Engineering                  | [CampusX](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH), [MIT 6.S191](http://introtodeeplearning.com/) |
+| 4    | ML Evaluation      | Accuracy, Precision, Recall, Confusion Matrix, ROC-AUC                      | [StatQuest](https://www.youtube.com/@statquest)                           |
+| 5    | Feature Scaling    | Normalization, Standardization, MinMax, Robust                              | [Scikit-learn Docs](https://scikit-learn.org/stable/modules/preprocessing.html) |
+| 6    | Data Labeling      | Manual annotation, Label Studio, Roboflow                                   | [Label Studio](https://labelstud.io/), [Roboflow](https://roboflow.com)   |
 
 ---
 
-### 🛠 **P1: Projects**
+### 🛠 **P1: Core ML Projects**
 
 | S.No | Project Name               | Explanation                                          | Datasets                   | Resources                         |
 | ---- | -------------------------- | ---------------------------------------------------- | -------------------------- | --------------------------------- |
@@ -49,11 +48,14 @@
 
 ---
 
-## **4. Core ML**
+## **4. Machine Learning — Deep Dive**
 
-| S.No | Title      | Side Topics                                      | Resources                                  |
-| ---- | ---------- | ------------------------------------------------ | ------------------------------------------ |
-| 8    | Core ML    | Bias-variance, underfitting, overfitting, regularization | Andrew Ng ML, Codebasics YouTube |
+| S.No | Title               | Side Topics                                                              | Resources                                                                 |
+| ---- | ------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| 7    | Unsupervised ML     | Clustering (K-Means, DBSCAN, Hierarchical), Dimensionality Reduction (PCA, t-SNE, UMAP) | [StatQuest](https://www.youtube.com/@statquest) |
+| 8    | Ensemble Methods    | Bagging, Boosting (XGBoost, LightGBM), Stacking                         | [Krish Naik](https://www.youtube.com/@krishnaik06) |
+| 9    | Hyperparameter Tuning | GridSearchCV, RandomSearch, Optuna, Bayesian Opt                       | [Optuna Docs](https://optuna.org/)                                       |
+| 10   | Core ML Concepts    | Bias-variance tradeoff, Underfitting/Overfitting, Regularization (L1/L2) | [Andrew Ng ML](https://www.coursera.org/learn/machine-learning)          |
 
 ---
 
@@ -61,11 +63,11 @@
 
 | S.No | Title      | Side Topics                                    | Resources                                                                 |
 | ---- | ---------- | ---------------------------------------------- | ------------------------------------------------------------------------- |
-| 9    | ML for NLP | text preprocessing, OHE, BoW, TF-IDF, Word2Vec | [YouTube Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn) |
+| 11   | ML for NLP | Text preprocessing, OHE, BoW, TF-IDF, Word2Vec | [Krish Naik](https://youtube.com/playlist?list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn) |
 
 ---
 
-### 🛠 **P2: Projects**
+### 🛠 **P2: NLP Projects**
 
 | S.No | Project Name      | Explanation                                           | Datasets               | Resources           |
 | ---- | ----------------- | ----------------------------------------------------- | ---------------------- | ------------------- |
@@ -78,7 +80,7 @@
 
 | S.No | Title     | Side Topics                                         | Resources                                                                 |
 | ---- | --------- | --------------------------------------------------- | ------------------------------------------------------------------------- |
-| 10   | DL Basics | NN, loss function, optimizers, activation functions | [YouTube Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
+| 12   | DL Basics | Neural Nets, Loss Functions, Optimizers, Activations | [3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), [MIT 6.S191](http://introtodeeplearning.com/) |
 
 ---
 
@@ -86,17 +88,17 @@
 
 | S.No | Title        | Side Topics               | Resources                                                                 |
 | ---- | ------------ | ------------------------- | ------------------------------------------------------------------------- |
-| 11   | NN + ANN     | Basics of neural nets     | DeepLearning.ai, 3Blue1Brown Neural Nets                                  |
-| 12   | CNN          | ConvNets for vision       | Stanford CS231n, FastAI                                                   |
-| 13   | RNN + LSTM   | Sequential data modeling  | Stanford CS224N, DeepLearning.ai                                          |
+| 13   | NN + ANN     | Basics of neural nets     | [DeepLearning.ai](https://www.deeplearning.ai/), [3Blue1Brown](https://www.youtube.com/@3blue1brown) |
+| 14   | CNN          | ConvNets for vision       | [Stanford CS231n](http://cs231n.stanford.edu/), [FastAI](https://course.fast.ai/) |
+| 15   | RNN + LSTM   | Sequential data modeling  | [Stanford CS224N](http://web.stanford.edu/class/cs224n/), DeepLearning.ai |
 
 ---
 
 ## **8. DL Frameworks**
 
-| S.No | Title                 | Side Topics                       | Resources                                                                 |
-| ---- | --------------------- | --------------------------------- | ------------------------------------------------------------------------- |
-| 14   | PyTorch/TensorFlow    | tensors, training, model building | [PyTorch Docs](https://pytorch.org), [TensorFlow Docs](https://www.tensorflow.org) |
+| S.No | Title              | Side Topics                       | Resources                                                                 |
+| ---- | ------------------ | --------------------------------- | ------------------------------------------------------------------------- |
+| 16   | PyTorch/TensorFlow | tensors, training, model building | [PyTorch Docs](https://pytorch.org), [TensorFlow Docs](https://www.tensorflow.org), [PyTorch YouTube](https://youtu.be/Z_ikDlimN6A?si=rzfpSwj8zffWDUXb) |
 
 ---
 
@@ -132,7 +134,7 @@
 
 | S.No | Title        | Side Topics                                           | Resources                                                                 |
 | ---- | ------------ | ----------------------------------------------------- | ------------------------------------------------------------------------- |
-| 20   | LangChain    | Components, Ollama, Huggingface, Groq                 | [LangChain Docs](https://python.langchain.com/docs/introduction/)         |
+| 20   | LangChain    | Components, Ollama, Huggingface, Groq                 | [LangChain Docs](https://python.langchain.com/docs/introduction/), [YouTube - LangChain](https://youtu.be/X0btK9X0Xnk) |
 | 21   | 🆕 Prompting | Zero-shot, few-shot, chain-of-thought, prompt hacking | OpenAI Cookbook, LangChain Docs                                           |
 
 ---
@@ -185,6 +187,15 @@
 - [CampusX](https://www.youtube.com/@campusx-official)  
 - [IBM Technology](https://www.youtube.com/@IBMTechnology)  
 - [Codebasics](https://www.youtube.com/@codebasics)
+
+---
+
+## 📚 Books
+
+- *Hands-On Machine Learning*  
+- *Hands-On LLMs*  
+- *Hands-On Deep Learning*  
+- Other “Hands-On” series books  
 
 ---
 
