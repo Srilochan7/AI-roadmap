@@ -1,29 +1,42 @@
-# Gen AI CheatSheet-
-(I'm actively exploring more resources and refining this roadmap to make it more detailed and genuinely helpful — so ⭐ it if you find it valuable!)
+# 🚀 Gen AI CheatSheet
 
-### **1. Python Basics**
-
-| S.No | Title         | Side Topics                                                     | Resources                                                                             |
-| ---- | ------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 1    | Python Basics | basics, data structures, file handling, exception handling, OOP | [YouTube](https://youtu.be/eWRfhZUzrAc?si=jEiiWSRYZy_sXOaQ) |
+*(I'm actively exploring more resources and refining this roadmap to make it more detailed and genuinely helpful — so ⭐ it if you find it valuable!)*
 
 ---
 
-### **2. Streamlit**
+## **0. Math Foundations**
 
-| S.No | Title     | Side Topics                   | Resources                                                                              |
-| ---- | --------- | ----------------------------- | -------------------------------------------------------------------------------------- |
-| 2    | Streamlit | Streamlit basics, UI building | [YouTube](https://youtu.be/yKTEC1Y5bEQ?si=Y2kG2IB1KhUBPa9T) |
+| S.No | Title          | Side Topics                                   | Resources                                  |
+| ---- | -------------- | --------------------------------------------- | ------------------------------------------ |
+| 0    | Math for ML/DL | Linear Algebra, Probability, Statistics, Calc |     [YouTube]( https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=2EJbpAA0269z28DA)    [YouTube](https://youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST&si=-sKUfIUFB03mk461)               |
 
 ---
 
-### **3. Machine Learning**
+## **1. Python Basics**
 
-| S.No | Title            | Side Topics                                                                        | Resources                                                                 |
-| ---- | ---------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 3    | ML Fundamentals  | classification, regression, model evaluation, data processing, feature engineering | [YouTube](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=ZzrfhkZn2WYTaqNB)               |
-| 4    | 🆕 ML Evaluation | Accuracy, Precision, Recall, Confusion Matrix, AUC                                 |                                                                           |
-| 5    | 🆕 Data Labeling | Manual annotation, Label Studio, Roboflow                                          |                                                                           |
+| S.No | Title         | Side Topics                                                     | Resources                                  |
+| ---- | ------------- | --------------------------------------------------------------- | ------------------------------------------ |
+| 1    | Python Basics | basics, data structures, file handling, exception handling, OOP | [YouTube](https://youtu.be/eWRfhZUzrAc)    |
+
+---
+
+## **2. Streamlit**
+
+| S.No | Title     | Side Topics                   | Resources                                   |
+| ---- | --------- | ----------------------------- | ------------------------------------------- |
+| 2    | Streamlit | Streamlit basics, UI building | [YouTube](https://youtu.be/yKTEC1Y5bEQ)     |
+
+---
+
+## **3. Machine Learning**
+
+| S.No | Title              | Side Topics                                                                 | Resources                                                                 |
+| ---- | ------------------ | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 3    | ML Fundamentals    | classification, regression, feature engineering, pipelines                  | [YouTube Playlist](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) |
+| 4    | 🆕 ML Evaluation   | Accuracy, Precision, Recall, Confusion Matrix, AUC                          |                                                                           |
+| 5    | 🆕 Data Labeling   | Manual annotation, Label Studio, Roboflow                                   |                                                                           |
+| 6    | 🆕 Feature Scaling | Normalization, Standardization, MinMax, Robust                             | sklearn docs                                                              |
+| 7    | 🆕 Hyperparameter  | GridSearchCV, RandomSearch, Optuna, Bayes Opt                              | scikit-learn, Optuna docs                                                  |
 
 ---
 
@@ -36,11 +49,19 @@
 
 ---
 
-### **4. ML for NLP**
+## **4. Core ML**
+
+| S.No | Title      | Side Topics                                      | Resources                                  |
+| ---- | ---------- | ------------------------------------------------ | ------------------------------------------ |
+| 8    | Core ML    | Bias-variance, underfitting, overfitting, regularization | Andrew Ng ML, Codebasics YouTube |
+
+---
+
+## **5. ML for NLP**
 
 | S.No | Title      | Side Topics                                    | Resources                                                                 |
 | ---- | ---------- | ---------------------------------------------- | ------------------------------------------------------------------------- |
-| 6    | ML for NLP | text preprocessing, OHE, BoW, TF-IDF, Word2Vec | [YouTube Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn&si=6OaqGFffW_uIvgBe) |
+| 9    | ML for NLP | text preprocessing, OHE, BoW, TF-IDF, Word2Vec | [YouTube Playlist](https://youtube.com/playlist?list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn) |
 
 ---
 
@@ -53,19 +74,29 @@
 
 ---
 
-### **5. DL Basics**
+## **6. DL Basics**
 
 | S.No | Title     | Side Topics                                         | Resources                                                                 |
 | ---- | --------- | --------------------------------------------------- | ------------------------------------------------------------------------- |
-| 7    | DL Basics | NN, loss function, optimizers, activation functions | [YouTube Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=hTP1hepod791tTGT) |
+| 10   | DL Basics | NN, loss function, optimizers, activation functions | [YouTube Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
 
 ---
 
-### **6. DL Deep Dive**
+## **7. Core DL**
 
-| S.No | Title       | Side Topics                     | Resources                                                                                                                             |
-| ---- | ----------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 8    | DL Advanced | ANN, CNN, LSTM, RNN, optimizers | [YouTube Playlist](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=hTP1hepod791tTGT), [YouTube](https://youtu.be/VyWAvY2CF9c?si=viVrWFc9xz7uuFie) |
+| S.No | Title        | Side Topics               | Resources                                                                 |
+| ---- | ------------ | ------------------------- | ------------------------------------------------------------------------- |
+| 11   | NN + ANN     | Basics of neural nets     | DeepLearning.ai, 3Blue1Brown Neural Nets                                  |
+| 12   | CNN          | ConvNets for vision       | Stanford CS231n, FastAI                                                   |
+| 13   | RNN + LSTM   | Sequential data modeling  | Stanford CS224N, DeepLearning.ai                                          |
+
+---
+
+## **8. DL Frameworks**
+
+| S.No | Title                 | Side Topics                       | Resources                                                                 |
+| ---- | --------------------- | --------------------------------- | ------------------------------------------------------------------------- |
+| 14   | PyTorch/TensorFlow    | tensors, training, model building | [PyTorch Docs](https://pytorch.org), [TensorFlow Docs](https://www.tensorflow.org) |
 
 ---
 
@@ -78,31 +109,31 @@
 
 ---
 
-### **7. Transformers**
+## **9. Transformers**
 
 | S.No | Title           | Side Topics                                                                                         | Resources                                                                                     |
 | ---- | --------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 9    | Transformers    | Self-attention, Multi-head, Positional Encoding, Encoder-Decoder Arch, Layer Norm, Masked MHA, etc. | [YouTube](https://www.youtube.com/live/SMZQrJ_L1vo?si=Ju3rCU0_ia19eSe0)                       |
-| 10   | 🆕 Tokenization | BPE, GPT-2 tokenizer, HF tokenizer                                                                  | [YouTube](https://youtu.be/ZhAz268Hdpw?si=wHzQodkQew2BBRb9), [Paper](https://arxiv.org/pdf/1706.03762) |
+| 15   | Transformers    | Self-attention, Multi-head, Positional Encoding, Encoder-Decoder Arch, Layer Norm, Masked MHA, etc. | [YouTube](https://www.youtube.com/live/SMZQrJ_L1vo)                                           |
+| 16   | 🆕 Tokenization | BPE, GPT-2 tokenizer, HF tokenizer                                                                  | [YouTube](https://youtu.be/ZhAz268Hdpw), [Paper](https://arxiv.org/pdf/1706.03762)            |
 
 ---
 
-### **8. Introduction to Gen AI**
+## **10. Introduction to Gen AI**
 
-| S.No | Title              | Side Topics                                                     | Resources                                                                                                                                                     |
-| ---- | ------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 11   | Intro to Gen AI    | AI vs ML vs DL vs GenAI, How GPT/LLM are trained, LLM evolution | [YouTube](https://youtu.be/X7Zd4VyUgL0?si=-PiUk-nVkBZ1emI4), [YouTube](https://youtu.be/d4yCWBGFCEs?si=JP9PK0yR9ZttFJBH)                                      |
-| 12   | 🆕 LLM Evaluation  | BLEU, ROUGE, Perplexity, Human Evaluation                       |                                                                                                                                                               |
-| 13   | 🆕 Ethics & Safety | Hallucination, bias, responsible deployment                     |                                                                                                                                                               |
+| S.No | Title              | Side Topics                                                     | Resources                                                                 |
+| ---- | ------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 17   | Intro to Gen AI    | AI vs ML vs DL vs GenAI, How GPT/LLM are trained, LLM evolution | [YouTube](https://youtu.be/X7Zd4VyUgL0), [YouTube](https://youtu.be/d4yCWBGFCEs) |
+| 18   | 🆕 LLM Evaluation  | BLEU, ROUGE, Perplexity, Human Evaluation                       |                                                                           |
+| 19   | 🆕 Ethics & Safety | Hallucination, bias, responsible deployment                     |                                                                           |
 
 ---
 
-### **9. Introduction to LangChain**
+## **11. Introduction to LangChain**
 
-| S.No | Title        | Side Topics                                           | Resources                                                                                                                                      |
-| ---- | ------------ | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 14   | LangChain    | Components, Ollama, Huggingface, Groq                 | [LangChain Docs](https://python.langchain.com/docs/introduction/)                                                                             |
-| 15   | 🆕 Prompting | Zero-shot, few-shot, chain-of-thought, prompt hacking | [YouTube Playlist](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&si=R2u58Ph_eQ9IWonn), OpenAI Cookbook, LangChain Docs |
+| S.No | Title        | Side Topics                                           | Resources                                                                 |
+| ---- | ------------ | ----------------------------------------------------- | ------------------------------------------------------------------------- |
+| 20   | LangChain    | Components, Ollama, Huggingface, Groq                 | [LangChain Docs](https://python.langchain.com/docs/introduction/)         |
+| 21   | 🆕 Prompting | Zero-shot, few-shot, chain-of-thought, prompt hacking | OpenAI Cookbook, LangChain Docs                                           |
 
 ---
 
@@ -115,11 +146,11 @@
 
 ---
 
-### **10. RAG (Retrieval Augmented Generation)**
+## **12. RAG (Retrieval Augmented Generation)**
 
 | S.No | Title | Side Topics                       | Resources                                                                                           |
 | ---- | ----- | --------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 16   | RAG   | Retrieval pipeline, vector search | [YouTube](https://youtu.be/X0btK9X0Xnk?si=WbI9pxwpGoMGvuGN), LangChain RAG Docs, Pinecone Blog       |
+| 22   | RAG   | Retrieval pipeline, vector search | [YouTube](https://youtu.be/X0btK9X0Xnk), LangChain RAG Docs, Pinecone Blog                          |
 
 ---
 
@@ -131,16 +162,24 @@
 
 ---
 
-### **11. Vector Databases**
+## **13. Vector Databases**
 
 | S.No | Title               | Side Topics                                  | Resources                                                                  |
-| ---- | ------------------- | -------------------------------------------- | ---------------------------------------------------------------------------- |
-| 17   | Vector Databases    | FAISS, ChromaDB, Pinecone, similarity search | Pinecone Docs, Weaviate, FAISS GitHub                                       |
-| 18   | 🆕 Fine-tuning LLMs | PEFT, LoRA, prompt-tuning intro              | Huggingface PEFT, [YouTube - LoRA Explained](https://www.youtube.com/results?search_query=lora+explained)         |
+| ---- | ------------------- | -------------------------------------------- | -------------------------------------------------------------------------- |
+| 23   | Vector Databases    | FAISS, ChromaDB, Pinecone, similarity search | Pinecone Docs, Weaviate, FAISS GitHub                                     |
+| 24   | 🆕 Fine-tuning LLMs | PEFT, LoRA, prompt-tuning intro              | Huggingface PEFT, LoRA Explained (YouTube)                                |
 
 ---
 
-### 🎥 YouTube Channels (Overall Resources)
+## **14. FastAPI (Backend for AI)**
+
+| S.No | Title    | Side Topics                           | Resources                                                                 |
+| ---- | -------- | ------------------------------------- | ------------------------------------------------------------------------- |
+| 25   | FastAPI  | APIs for ML/DL models, deployment     | [FastAPI Docs](https://fastapi.tiangolo.com/), YouTube (FastAPI CrashCourse) |
+
+---
+
+## 🎥 YouTube Channels
 
 - [KrishNaik](https://www.youtube.com/@krishnaik06)  
 - [CampusX](https://www.youtube.com/@campusx-official)  
@@ -149,13 +188,13 @@
 
 ---
 
-### 📄 Some Good Research Papers
+## 📄 Good Research Papers
 
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)  
 - [LangChain Docs](https://python.langchain.com/docs/introduction/)
 
 ---
 
-### 📊 Datasets
+## 📊 Datasets
 
 - [Kaggle](https://www.kaggle.com)
