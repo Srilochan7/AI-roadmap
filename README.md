@@ -1,4 +1,5 @@
-# This Cheatsheet is all you need
+# 🚀This cheatsheet is all you need 
+This cheatsheet serves as a practical roadmap and resource guide for anyone looking to get into GenAI or Agentic AI.
 
 > *I'm actively exploring more resources and refining this roadmap to make it more detailed and genuinely helpful — so ⭐ it if you find it valuable!*
 
@@ -237,12 +238,21 @@
 
 ---
 
-## **17. FastAPI (Backend for AI)**
+## **17. Model Context Protocol (MCP)**
 
 | S.No | Topic | Description | Resources |
 |------|-------|-------------|-----------|
-| 41 | **FastAPI Fundamentals** | REST APIs, async programming, model deployment | [FastAPI Docs](https://fastapi.tiangolo.com/) · [FastAPI Course](https://youtu.be/0sOvCWFmrtA) |
-| 42 | **AI Model Deployment** | Serving ML/DL models, batch processing, monitoring | [MLOps Best Practices](https://ml-ops.org/) |
+| 41 | **MCP Fundamentals** | Protocol for connecting AI assistants to external data sources and tools | [Anthropic MCP Docs](https://modelcontextprotocol.io/) · [MCP GitHub](https://github.com/modelcontextprotocol) |
+| 42 | **MCP Implementation** | Building MCP servers, client integration, tool development | [MCP Quickstart](https://modelcontextprotocol.io/quickstart) |
+
+---
+
+## **18. FastAPI (Backend for AI)**
+
+| S.No | Topic | Description | Resources |
+|------|-------|-------------|-----------|
+| 43 | **FastAPI Fundamentals** | REST APIs, async programming, model deployment | [FastAPI Docs](https://fastapi.tiangolo.com/) · [FastAPI Course](https://youtu.be/0sOvCWFmrtA) |
+| 44 | **AI Model Deployment** | Serving ML/DL models, batch processing, monitoring | [MLOps Best Practices](https://ml-ops.org/) |
 
 ---
 
