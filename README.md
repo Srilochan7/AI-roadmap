@@ -149,19 +149,9 @@ This cheatsheet serves as a practical roadmap and resource guide for anyone look
 
 ---
 
-## **11. Large Language Models (LLMs) - Advanced**
 
-| S.No | Topic | Description | Resources |
-|------|-------|-------------|-----------|
-| 22 | **PEFT (Parameter Efficient Fine-Tuning)** | LoRA, QLoRA, AdaLoRA, Prefix Tuning, P-Tuning | [Hugging Face PEFT](https://huggingface.co/docs/peft/index) · [LoRA Paper](https://arxiv.org/abs/2106.09685) |
-| 23 | **LoRA & QLoRA** | Low-Rank Adaptation, Quantized LoRA for efficient fine-tuning | [QLoRA Paper](https://arxiv.org/abs/2305.14314) · [Practical LoRA](https://youtu.be/PXWYUTMt-AU) |
-| 24 | **Quantization Techniques** | INT8, INT4, GPTQ, AWQ, GGML/GGUF formats | [BitsAndBytes](https://github.com/TimDettmers/bitsandbytes) · [GPTQ](https://arxiv.org/abs/2210.17323) |
-| 25 | **Model Compression** | Pruning, Distillation, Quantization-Aware Training | [Neural Compression](https://youtu.be/DQQsNBzp-oI) |
-| 26 | **Advanced Fine-tuning** | Full fine-tuning vs PEFT, Instruction tuning, RLHF basics | [Hugging Face Fine-tuning](https://huggingface.co/docs/transformers/training) |
 
----
-
-## **12. Introduction to LangChain**
+## **11. Introduction to LangChain**
 
 | S.No | Topic | Description | Resources |
 |------|-------|-------------|-----------|
@@ -178,7 +168,7 @@ This cheatsheet serves as a practical roadmap and resource guide for anyone look
 
 ---
 
-## **13. RAG (Retrieval Augmented Generation)**
+## **12. RAG (Retrieval Augmented Generation)**
 
 | S.No | Topic | Description | Resources |
 |------|-------|-------------|-----------|
@@ -194,12 +184,23 @@ This cheatsheet serves as a practical roadmap and resource guide for anyone look
 
 ---
 
-## **14. Vector Databases**
+## **13. Vector Databases**
 
 | S.No | Topic | Description | Resources |
 |------|-------|-------------|-----------|
 | 32 | **Vector DB Fundamentals** | FAISS, ChromaDB, Pinecone, Weaviate, similarity search | [Pinecone Docs](https://docs.pinecone.io/) · [ChromaDB](https://docs.trychroma.com/) |
 | 33 | **Embedding Models** | sentence-transformers, OpenAI embeddings, custom embeddings | [Sentence Transformers](https://www.sbert.net/) |
+
+---
+## **14. Large Language Models (LLMs) - Advanced**
+
+| S.No | Topic | Description | Resources |
+|------|-------|-------------|-----------|
+| 22 | **PEFT (Parameter Efficient Fine-Tuning)** | LoRA, QLoRA, AdaLoRA, Prefix Tuning, P-Tuning | [Hugging Face PEFT](https://huggingface.co/docs/peft/index) · [LoRA Paper](https://arxiv.org/abs/2106.09685) |
+| 23 | **LoRA & QLoRA** | Low-Rank Adaptation, Quantized LoRA for efficient fine-tuning | [QLoRA Paper](https://arxiv.org/abs/2305.14314) · [Practical LoRA](https://youtu.be/PXWYUTMt-AU) |
+| 24 | **Quantization Techniques** | INT8, INT4, GPTQ, AWQ, GGML/GGUF formats | [BitsAndBytes](https://github.com/TimDettmers/bitsandbytes) · [GPTQ](https://arxiv.org/abs/2210.17323) |
+| 25 | **Model Compression** | Pruning, Distillation, Quantization-Aware Training | [Neural Compression](https://youtu.be/DQQsNBzp-oI) |
+| 26 | **Advanced Fine-tuning** | Full fine-tuning vs PEFT, Instruction tuning, RLHF basics | [Hugging Face Fine-tuning](https://huggingface.co/docs/transformers/training) |
 
 ---
 
