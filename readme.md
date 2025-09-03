@@ -156,7 +156,7 @@ This cheatsheet serves as a practical roadmap and resource guide for anyone look
 | S.No | Topic | Description | Resources |
 |------|-------|-------------|-----------|
 | 21 | **Transformer Architecture** | Self-attention, Multi-head attention, Positional Encoding, Encoder-Decoder | [3Blue1Brown](https://youtu.be/wjZofJX0v4M) · [Campus X](https://youtube.com/playlist?list=PLkBMe2eZMRQ2VKEtoL0GVUrNzEiXfgj07) |
-| 22 | **Tokenization** | BPE, SentencePiece, GPT-2 tokenizer, Hugging Face tokenizers | [Andrej Karpathy](https://youtu.be/ZhAz268Hdpw) · [Original Paper](https://arxiv.org/pdf/1706.03762) |
+| 22 | **Tokenization** | BPE, SentencePiece, GPT-2 tokenizer, Hugging Face tokenizers | [Campus X](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=VGTrEEzSt02wLgks) [Andrej Karpathy](https://youtu.be/ZhAz268Hdpw) · [Original Paper](https://arxiv.org/pdf/1706.03762) |
 
 ---
 
