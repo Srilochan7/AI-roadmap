@@ -112,7 +112,7 @@ This cheatsheet serves as a practical roadmap and resource guide for anyone look
 
 | S.No | Topic | Description | Resources |
 |------|-------|-------------|-----------|
-| 13 | **Deep Learning Fundamentals** | Neural Networks, Loss Functions, Optimizers, Activation Functions | [3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) · [MIT 6.S191](http://introtodeeplearning.com/) |
+| 13 | **Deep Learning Fundamentals** | Neural Networks, Loss Functions, Optimizers, Activation Functions | [3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) · [MIT 6.S191](http://introtodeeplearning.com/) [Campus X](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=VGTrEEzSt02wLgks)|
 
 ---
 
@@ -120,9 +120,9 @@ This cheatsheet serves as a practical roadmap and resource guide for anyone look
 
 | S.No | Topic | Description | Resources |
 |------|-------|-------------|-----------|
-| 14 | **Neural Networks & ANN** | Feedforward networks, backpropagation, gradient descent | [MIT 6.S191](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) · [3Blue1Brown](https://www.youtube.com/@3blue1brown) |
-| 15 | **CNN** | Convolutional Neural Networks for computer vision | [MIT 6.S191](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) · [CS231n](https://youtu.be/iOdFUJiB0Zc) |
-| 16 | **RNN & LSTM** | Sequential data modeling, time series | [MIT 6.S191](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) · [Colah's Blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) |
+| 14 | **Neural Networks & ANN** | Feedforward networks, backpropagation, gradient descent | [MIT 6.S191](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) · [3Blue1Brown](https://www.youtube.com/@3blue1brown) [Campus X](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=VGTrEEzSt02wLgks)|
+| 15 | **CNN** | Convolutional Neural Networks for computer vision |[Campus X](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=VGTrEEzSt02wLgks) [MIT 6.S191](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) · [CS231n](https://youtu.be/iOdFUJiB0Zc) |
+| 16 | **RNN & LSTM** | Sequential data modeling, time series |[Campus X](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=VGTrEEzSt02wLgks) [MIT 6.S191](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) · [Colah's Blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) |
 
 ---
 
