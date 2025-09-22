@@ -263,8 +263,8 @@ This cheatsheet serves as a practical roadmap and resource guide for anyone look
 
 | S.No | Topic | Description | Resources |
 |------|-------|-------------|-----------|
-| 45 | **MCP Fundamentals** | Protocol for connecting AI assistants to external data sources and tools | [Anthropic MCP Docs](https://modelcontextprotocol.io/) · [MCP GitHub](https://github.com/modelcontextprotocol) |
-| 46 | **MCP Implementation** | Building MCP servers, client integration, tool development | [MCP Quickstart](https://modelcontextprotocol.io/quickstart) |
+| 45 | **MCP Fundamentals** | Protocol for connecting AI assistants to external data sources and tools | [Campus X](https://youtube.com/playlist?list=PLKnIA16_Rmva_oZ9F4ayUu9qcWgF7Fyc0&si=xcrbYp8oaCFopSln) · [MCP GitHub](https://github.com/modelcontextprotocol) |
+| 46 | **MCP Implementation** | Building MCP servers, client integration, tool development | [Krishnaik](https://youtu.be/MDBG2MOp4Go?si=pEbvdUGHK5S0euEH) |
 
 ---
 
