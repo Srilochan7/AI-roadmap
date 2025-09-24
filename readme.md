@@ -287,8 +287,8 @@ This cheatsheet serves as a practical roadmap and resource guide for anyone look
 - [FreeCodeCamp](https://www.youtube.com/@freecodecamp) - extras
 
 ### 📖 **Essential Books**
-- **Hands-On Machine Learning** by Aurélien Géron
-- **Hands-On Large Language Models** by Jay Alammar & Maarten Grootendorst
+- [All Top AIML Books](https://drive.google.com/drive/folders/1uZJrGQpOCv6K17YHvqk83oeBEbzpDTtG?usp=drive_link) - collection in one place
+
 
 ### 📄 **Key Research Papers**
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) - Original Transformer paper
