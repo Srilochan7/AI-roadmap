@@ -1,4 +1,4 @@
-# 🚀This cheatsheet is all you need 
+# 🚀This cheatsheet is all you need for AIML 
 This cheatsheet serves as a practical roadmap and resource guide for anyone looking to get into GenAI or Agentic AI.
 
 > *I'm actively exploring more resources and refining this roadmap to make it more detailed and genuinely helpful — so ⭐ it if you find it valuable!*
