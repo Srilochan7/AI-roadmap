@@ -286,6 +286,17 @@ This cheatsheet serves as a practical roadmap and resource guide for anyone look
 - [Codebasics](https://www.youtube.com/@codebasics) - extras
 - [FreeCodeCamp](https://www.youtube.com/@freecodecamp) - extras
 
+- [Andrej Karpathy](http://www.youtube.com/channel/UCXUPKJO5MZQN11PqgIvyuvQ)  
+- [Jeremy Howard](http://www.youtube.com/user/howardjeremyp)  
+- [3Blue1Brown](http://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)  
+- [Serrano Academy](http://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)  
+- [Lex Fridman](http://www.youtube.com/user/lexfridman)  
+- [Hamel Husain](http://www.youtube.com/channel/UC__dUuqF5w4OnbW221JxmKg)  
+- [Machine Learning Street Talk](http://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)  
+- [Jason Liu](http://www.youtube.com/channel/UCNhyF7LnO54xA-RW3shkSxA)  
+- [StatQuest with Josh Starmer](http://www.youtube.com/user/joshstarmer)  
+- [Dave Ebbelaar](http://www.youtube.com/channel/UCn8ujwUInbJkBhffxqAPBVQ) 
+
 ### 📖 **Essential Books**
 - [All Top AIML Books](https://drive.google.com/drive/folders/1uZJrGQpOCv6K17YHvqk83oeBEbzpDTtG?usp=drive_link) - collection in one place
 
