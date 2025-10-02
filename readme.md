@@ -246,9 +246,9 @@ This cheatsheet serves as a practical roadmap and resource guide for anyone look
 
 | S.No | Topic | Description | Resources |
 |------|-------|-------------|-----------|
-| 42 | **LangGraph Fundamentals** | State machines, graph-based workflows for agents | [LangGraph Docs](https://langchain-ai.github.io/langgraph/) · [LangGraph Tutorial](https://youtu.be/VaAlSpe2B30) |
-| 43 | **Complex Agent Workflows** | Multi-step reasoning, conditional flows, human-in-the-loop | [LangGraph Examples](https://github.com/langchain-ai/langgraph/tree/main/examples) |
-| 44 | **Agent Orchestration** | Managing multiple agents, workflow optimization | [LangGraph Advanced](https://youtu.be/9lWe6K5OMuY) |
+| 42 | **LangGraph Fundamentals** | State machines, graph-based workflows for agents | [Campus X](https://youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL&si=mPhMTMc3PnnHBMNG) · [LangGraph Tutorial](https://youtu.be/VaAlSpe2B30) |
+| 43 | **Complex Agent Workflows** | Multi-step reasoning, conditional flows, human-in-the-loop | [Campus X](https://youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL&si=mPhMTMc3PnnHBMNG) |
+| 44 | **Agent Orchestration** | Managing multiple agents, workflow optimization |[Campus X](https://youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL&si=mPhMTMc3PnnHBMNG) |
 
 ### 🛠 **P7: LangGraph Projects**
 
