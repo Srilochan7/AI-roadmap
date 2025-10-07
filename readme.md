@@ -60,7 +60,7 @@ This cheatsheet serves as a practical roadmap and resource guide for anyone look
 
 | S.No | Topic | Description | Resources |
 |------|-------|-------------|-----------|
-| 3 | **FastAPI Fundamentals** | REST APIs, async programming, model deployment | [FastAPI Docs](https://fastapi.tiangolo.com/) · [FastAPI Course](https://youtu.be/0sOvCWFmrtA) |
+| 3 | **FastAPI Fundamentals** | REST APIs, async programming, model deployment | [FastAPI Docs](https://fastapi.tiangolo.com/) · [FastAPI Course](https://youtu.be/0sOvCWFmrtA)  [FastAPI Course](https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ&si=QETHK5CRt8UwhmXR) |
 
 ---
 
